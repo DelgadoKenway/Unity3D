@@ -29,7 +29,7 @@ public class clickcontrol : MonoBehaviour
         Destroy(gameObject);
         Destroy(objnametext);
         trackingclicks.totalclicks = 0;
-        //Instantiate(sucessclick, objnametextPos.position, sucessclick.rotation);
+        Instantiate(sucessclick, objnametextPos.position, sucessclick.rotation);
     }
 
 
