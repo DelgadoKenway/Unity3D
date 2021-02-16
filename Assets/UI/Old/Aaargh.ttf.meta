@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 9e8b789284df97b47b571c5b63d36bc0
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Aaargh
+  fontNames:
+  - Aaargh
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 173e4d374884d0c40b6efaeba0a846a2, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
